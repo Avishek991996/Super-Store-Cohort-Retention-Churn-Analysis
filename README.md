@@ -17,7 +17,7 @@ Comprehensive analysis of Superstore customer data focusing on cohort segmentati
 The analysis performed in this project includes:
 
 - **Data Transformation in Power Query Editor**: This includes Trim extra spaces, merged columns, remove duplicates, remove null values, addition of new columns, merge queries, creating new table  - **Data Modelling**: Creating relationships between tables, check cardinality, check cross filter direction as per usecase
-- **DAX Queries**: Creating new measure(Active customers, Churn rate, Churned customers, Cohort performance, Lost customers, New customers, Ressurected customers, Retained customers, Retention rate, Validation), creating new columns, use functions like sum,count,average,if etc, use of date,year function, logical function.
+- **DAX Queries**: Creating new measure(Active customers, Churn rate, Churned customers, Cohort performance, Lost customers, New customers, Resurrected customers, Retained customers, Retention rate, Validation), creating new columns, use functions like sum,count,average,if etc, use of date,year function, logical function.
 - **Dashboard Building**: Usage of Stacked stacked column, Table, Matrix, slicer, card, KPI.
 
 ### Insights from the Analysis
