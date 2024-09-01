@@ -1,5 +1,15 @@
 # Monthly Cohort, Retension, Churn analysis of Super Store
 
+## Source of Dataset
+UC Irvine Machone Learning Repository, link : https://archive.ics.uci.edu/dataset/502/online+retail+ii
+
+## Problem Statement
+Understanding customer retention and behavior over time is critical for business growth and sustainability. This project aims to analyze the retention rates of customers acquired between December 2009 and April 2010, identifying trends and patterns in customer engagement across different cohorts. The analysis seeks to answer the following questions:
+
+1. How do customer retention rates change month by month for each cohort?
+2. What are the critical periods where customer retention declines significantly?
+3. What actionable insights can be drawn to improve customer retention strategies in the future?
+
 ## Objective
 Comprehensive analysis of Superstore customer data focusing on cohort segmentation, retention trends, and churn prediction. The project utilizes advanced data analytics techniques to derive actionable insights for enhancing customer loyalty
 
