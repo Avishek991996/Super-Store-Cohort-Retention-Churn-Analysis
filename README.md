@@ -26,7 +26,7 @@ The analysis performed in this project includes:
   - In December 2009, new customers 955
   - After first month new customers 383(53.19%),retained customer 337(46.81%)
   - Number of new customers gradually dropped by 11.48% in November 2011
-  - Number of retained customer in december 2011, 371(60.33%) and number of ressurected customers 216(35.12%)
+  - Number of retained customer in december 2011, 371(60.33%) and number of resurrected customers 216(35.12%)
 
 ## Tool Used
 - Microsoft Power BI: Data transformation (Power Query Editor), data modelling, DAX.
