@@ -1,4 +1,4 @@
-# Monthly Cohort, Retension, Churn analysis of Super Store
+# Monthly Cohort, Retention, Churn analysis of Super Store
 
 ## Source of Dataset
 UC Irvine Machine Learning Repository, link : https://archive.ics.uci.edu/dataset/502/online+retail+ii
